@@ -1,6 +1,3 @@
-# animated-thermometer
- A dynamic animated thermometer built with HTML, CSS, and JavaScript that visually fills up, changes color at full level, and loops infinitely.
-
 # 🌡️ Animated Thermometer
 
 An animated thermometer built using HTML, CSS, and JavaScript. The thermometer fills up smoothly, changes its color to red when it reaches the full level, and then resets in a continuous loop. A visually appealing project that showcases dynamic DOM manipulation and CSS transitions.
